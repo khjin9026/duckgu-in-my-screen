@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller 빌드 부산물
+src/build/
+src/dist/
+src/*.spec
+
+# 아이콘 빌드 중간물 (icon.png 만 커밋, .iconset/.icns 는 빌드시 재생성)
+src/icon.iconset/
+
+# 빌드된 앱 — GitHub Releases 로 배포
+덕구.app/
+
+# 사용자 설정 파일 (홈 디렉토리에 저장되지만 혹시 모르니)
+.desktop-pet-settings.json
