@@ -11,6 +11,9 @@ src/build/
 src/dist/
 src/*.spec
 
+# 빌드 전용 가상환경 (rebuild.sh 가 자동 생성)
+src/.venv-build/
+
 # 아이콘 빌드 중간물 (icon.png 만 커밋, .iconset/.icns 는 빌드시 재생성)
 src/icon.iconset/
 
