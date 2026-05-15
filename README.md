@@ -19,13 +19,43 @@
 - 📝 스케줄 등록 → 시간 되면 포스트잇으로 메모 전달
 - 🪟 Mission Control 에서도 설정 가능
 
-## 설치 (사용자)
+## 실행방법
+* 실행 전 유의사항
+  1. 덕구는 개발 인증서 없이 취미로 제작한 서비스로, 첫 실행시 보안 경고가 뜰 수 있습니다.
+  2. Mac OS만 지원됩니다.
 
-1. [Releases](../../releases) 에서 최신 `덕구.app.zip` 다운로드
-2. 압축 풀고 `덕구.app` 더블클릭
-3. 처음 실행 시 보안 경고가 뜨면:
-   - `덕구.app` 우클릭 → **열기** → **허용**
-   - (Apple 미서명 앱이라 한 번만 거치면 됨)
+1. [Releases](../../releases) 에서 최신 `duckgu in my screen.zip` 다운로드해주세요.
+2. 압축 풀고 `덕구` 앱 아이콘 더블 클릭해주세요.
+3. 처음 실행 시 보안 경고가 뜰 경우 아래 방법 중 하나로 진행해주세요.
+   > 방법 1. `덕구.app` 우클릭 → **열기** → **허용**   
+   > 방법 2. `덕구.app` 클릭 → 설정 - 개인정보 보호 및 보안 - (스크롤) 보안의 덕구 **그래도 열기** 버튼 클릭 → **그래도 열기** → **암호 입력**
+   
+   한 번만 열기 성공하면 이후엔 그냥 클릭만으로 열려요!
+
+
+
+### 실행방법 이미지 첨부
+
+<img width="198" height="217" alt="image" src="https://github.com/user-attachments/assets/48773fe8-f080-4b55-b722-c976ed4f6702" />
+
+<img width="698" height="185" alt="image" src="https://github.com/user-attachments/assets/b3db9ab3-5b99-4a0c-9cd0-affa12bb5a0c" />
+
+<img width="198" height="266" alt="image" src="https://github.com/user-attachments/assets/bb8c2597-d01f-465a-a20d-842402d6ad5d" />
+
+
+
+
+그럼 덕구와 밤티와 재밌는 맥생활하세요
+https://github.com/user-attachments/assets/bd174c83-22de-45cc-b817-c8366b5dcd74
+
+<img width="484" height="276" alt="image" src="https://github.com/user-attachments/assets/f0d534b2-b911-4eac-a400-506891a6975d" />
+
+
+
+
+
+---
+
 
 ## 빌드 (개발자)
 
