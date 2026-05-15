@@ -45,7 +45,7 @@
 
 
 
-그럼 덕구와 밤티와 재밌는 맥생활하세요~
+그럼 덕구, 밤티와 재밌는 맥생활하세요~
 
 <video src="https://github.com/user-attachments/assets/bd174c83-22de-45cc-b817-c8366b5dcd74" />
 
