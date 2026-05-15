@@ -45,8 +45,9 @@
 
 
 
-그럼 덕구와 밤티와 재밌는 맥생활하세요
-https://github.com/user-attachments/assets/bd174c83-22de-45cc-b817-c8366b5dcd74
+그럼 덕구와 밤티와 재밌는 맥생활하세요~
+
+<video src="https://github.com/user-attachments/assets/bd174c83-22de-45cc-b817-c8366b5dcd74" />
 
 <img width="484" height="276" alt="image" src="https://github.com/user-attachments/assets/f0d534b2-b911-4eac-a400-506891a6975d" />
 
